@@ -5,7 +5,7 @@ import StartGameScreen from "./screens/StartGameScreen";
 
 export default function App() {
   return (
-    <LinearGradient colors={["#4e0329", "#ddb52f"]} style={styles.rootScreen}>
+    <LinearGradient colors={["#585123", "#eec170"]} style={styles.rootScreen}>
       <ImageBackground
         source={require("./assets/images/background.png")}
         resizeMode="cover"
